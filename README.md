@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:222831,45:393E46,100:00ADB5&text=%C4%B0sm%C9%99t%20Cahangirov&fontColor=EEEEEE&fontSize=52&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20MERN%20Stack&descSize=18&descAlignY=56&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:242424,100:00ADB5&text=Ismat%20Jahangirov&fontColor=EEEEEE&fontSize=52&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20MERN%20Stack&descSize=18&descAlignY=56&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/ismetcahangirov">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00ADB5&center=true&vCenter=true&width=720&height=45&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;React+Native+%E2%80%A2+Cross-platform+Mobile;Node.js+%E2%80%A2+Express+%E2%80%A2+REST+APIs;WebRTC+%E2%80%A2+LiveKit+%E2%80%A2+Socket.IO;Core+Web+Vitals+%E2%80%A2+SEO+%E2%80%A2+Performance;Team+Lead+%E2%80%A2+Mentor+%E2%80%A2+100%2B+Students" alt="typing" />
@@ -174,6 +174,6 @@ Technical leadership of a frontend team, building a code review culture, mentori
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00ADB5,55:393E46,100:222831&section=footer&reversal=true&animation=fadeIn" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:242424,100:00ADB5&section=footer&reversal=true&animation=fadeIn" alt="footer" />
 
 </div>
