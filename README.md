@@ -145,6 +145,18 @@ Technical leadership of a frontend team, building a code review culture, mentori
 
 </div>
 
+## <img src="https://img.shields.io/badge/-00ADB5?style=flat-square&color=00ADB5" height="14" /> Languages I Code In
+
+<div align="center">
+
+<img width="100%" src="assets/languages.svg" alt="Most used languages across personal and organization repositories" />
+
+<sub>Calculated hourly from all my personal and organization repositories, including private ones.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:222831,50:00ADB5,100:222831&section=header" alt="divider" />
+
+</div>
+
 ## <img src="https://img.shields.io/badge/-00ADB5?style=flat-square&color=00ADB5" height="14" /> Additional Skills
 
 <div align="center">

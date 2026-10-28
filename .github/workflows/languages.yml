@@ -1,0 +1,53 @@
+name: Languages
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/scripts/languages.mjs
+      - .github/workflows/languages.yml
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: languages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate languages chart
+        env:
+          GH_TOKEN: ${{ secrets.LANGUAGES_TOKEN }}
+        run: node .github/scripts/languages.mjs
+
+      - name: Commit if changed
+        run: |
+          git add assets/languages.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update languages chart"
+          git push
+
+      - name: Keep schedule alive
+        if: github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/languages.yml/enable"
