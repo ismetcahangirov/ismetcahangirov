@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="330" viewBox="0 0 800 330" role="img" aria-labelledby="t d">
   <title id="t">Most used languages</title>
-  <desc id="d">TypeScript 54.5%, Java 24.2%, Python 6.79%, Go 4.24%, JavaScript 3.49%, C# 2.28%, Rust 1.65%, CSS 0.97%, SCSS 0.52%, HTML 0.47%, Other 0.86%</desc>
+  <desc id="d">TypeScript 54.5%, Java 24.2%, Python 6.77%, Go 4.22%, JavaScript 3.60%, C# 2.28%, Rust 1.64%, CSS 1.00%, SCSS 0.52%, HTML 0.47%, Other 0.86%</desc>
   <style>
     .card { fill: #ffffff; stroke: #d0d7de; }
     .title { font: 600 20px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #00ADB5; }
@@ -17,7 +17,7 @@
   <text x="28" y="44" class="title">Most Used Languages</text>
   <text x="28" y="68" class="sub">Across 61 repositories · personal + 1 organization</text>
   <clipPath id="bar"><rect x="28" y="92" width="744" height="12" rx="6"/></clipPath>
-  <g clip-path="url(#bar)"><rect x="28.00" y="92" width="405.46" height="12" fill="#3178c6"/><rect x="433.46" y="92" width="180.35" height="12" fill="#b07219"/><rect x="613.81" y="92" width="50.52" height="12" fill="#3572A5"/><rect x="664.32" y="92" width="31.51" height="12" fill="#00ADD8"/><rect x="695.83" y="92" width="25.94" height="12" fill="#f1e05a"/><rect x="721.78" y="92" width="16.98" height="12" fill="#7355dd"/><rect x="738.75" y="92" width="12.25" height="12" fill="#dea584"/><rect x="751.01" y="92" width="7.22" height="12" fill="#663399"/><rect x="758.22" y="92" width="3.86" height="12" fill="#c6538c"/><rect x="762.08" y="92" width="3.48" height="12" fill="#e34c26"/><rect x="765.57" y="92" width="6.43" height="12" fill="#6e7681"/></g>
+  <g clip-path="url(#bar)"><rect x="28.00" y="92" width="405.32" height="12" fill="#3178c6"/><rect x="433.32" y="92" width="179.77" height="12" fill="#b07219"/><rect x="613.10" y="92" width="50.38" height="12" fill="#3572A5"/><rect x="663.47" y="92" width="31.41" height="12" fill="#00ADD8"/><rect x="694.89" y="92" width="26.80" height="12" fill="#f1e05a"/><rect x="721.69" y="92" width="16.95" height="12" fill="#7355dd"/><rect x="738.64" y="92" width="12.22" height="12" fill="#dea584"/><rect x="750.85" y="92" width="7.41" height="12" fill="#663399"/><rect x="758.27" y="92" width="3.84" height="12" fill="#c6538c"/><rect x="762.11" y="92" width="3.47" height="12" fill="#e34c26"/><rect x="765.59" y="92" width="6.41" height="12" fill="#6e7681"/></g>
   <g transform="translate(28.00 138)">
     <circle cx="6" cy="0" r="6" fill="#3178c6"/>
     <text x="22" y="5" class="name">TypeScript</text>
@@ -31,17 +31,17 @@
   <g transform="translate(28.00 198)">
     <circle cx="6" cy="0" r="6" fill="#3572A5"/>
     <text x="22" y="5" class="name">Python</text>
-    <text x="348.00" y="5" class="pct" text-anchor="end">6.79%</text>
+    <text x="348.00" y="5" class="pct" text-anchor="end">6.77%</text>
   </g>
   <g transform="translate(28.00 228)">
     <circle cx="6" cy="0" r="6" fill="#00ADD8"/>
     <text x="22" y="5" class="name">Go</text>
-    <text x="348.00" y="5" class="pct" text-anchor="end">4.24%</text>
+    <text x="348.00" y="5" class="pct" text-anchor="end">4.22%</text>
   </g>
   <g transform="translate(28.00 258)">
     <circle cx="6" cy="0" r="6" fill="#f1e05a"/>
     <text x="22" y="5" class="name">JavaScript</text>
-    <text x="348.00" y="5" class="pct" text-anchor="end">3.49%</text>
+    <text x="348.00" y="5" class="pct" text-anchor="end">3.60%</text>
   </g>
   <g transform="translate(28.00 288)">
     <circle cx="6" cy="0" r="6" fill="#7355dd"/>
@@ -51,12 +51,12 @@
   <g transform="translate(400.00 138)">
     <circle cx="6" cy="0" r="6" fill="#dea584"/>
     <text x="22" y="5" class="name">Rust</text>
-    <text x="348.00" y="5" class="pct" text-anchor="end">1.65%</text>
+    <text x="348.00" y="5" class="pct" text-anchor="end">1.64%</text>
   </g>
   <g transform="translate(400.00 168)">
     <circle cx="6" cy="0" r="6" fill="#663399"/>
     <text x="22" y="5" class="name">CSS</text>
-    <text x="348.00" y="5" class="pct" text-anchor="end">0.97%</text>
+    <text x="348.00" y="5" class="pct" text-anchor="end">1.00%</text>
   </g>
   <g transform="translate(400.00 198)">
     <circle cx="6" cy="0" r="6" fill="#c6538c"/>
